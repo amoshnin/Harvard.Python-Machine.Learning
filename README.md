@@ -116,3 +116,9 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
 * __Name:__ CS50's Introduction to Artificial Intelligence with Python
 * __University:__ Harvard University
 * __WWW:__ https://cs50.harvard.edu/ai/2020/
+
+## Supplementary Resources used:
+* __Python for DataScience Hanbook__: https://jakevdp.github.io/PythonDataScienceHandbook/
+
+
+
