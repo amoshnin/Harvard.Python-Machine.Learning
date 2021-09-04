@@ -64,49 +64,49 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
         </tr>
         <tr>
             <td><a href="./2-uncertainty/2b-heredity">Heredity</a></td>
-            <td>XXX</td>
-            <td>YYY</td>
+            <td>Bayesian Network of genes is used by AI to infer the probability distribution for each person’s genes, as well as the probability distribution for whether any person will exhibit the trait in question</td>
+            <td>Probability theory: Probability distribution and Joint Probability</td>
             <td><a href="https://cs50.harvard.edu/ai/2020/projects/2/heredity/">Theory link</a></td>
         </tr>
         <tr>
             <td rowspan=1>Optimization</td>
             <td><a href="./3-optimization/3a-crossword">Crossword</a></td>
-            <td>XXX</td>
-            <td>YYY</td>
-            <td><a href="www.google.com">Theory link</a></td>
+            <td>Generating a crossword puzzle</td>
+            <td>Modelled as constraint satisfaction problem</td>
+            <td><a href="https://cs50.harvard.edu/ai/2020/projects/3/crossword/">Theory link</a></td>
         </tr>
         <tr>
             <td rowspan=2>Learning</td>
             <td><a href="./4-learning/4a-shopping">Shopping</a></td>
-            <td>Bayesian Network of genes is used by AI to infer the probability distribution for each person’s genes, as well as the probability distribution for whether any person will exhibit the trait in question</td>
-            <td>Probability theory: Probability distribution and Joint Probability</td>
-            <td><a href="www.google.com">Theory link</a></td>
+            <td>Determining the likelihood of a user making a purchase on a website</td>
+            <td>Nearest-neighbor classifier</td>
+            <td><a href="https://cs50.harvard.edu/ai/2020/projects/4/shopping/">Theory link</a></td>
         </tr>
         <tr>
             <td><a href="./4-learning/4b-nim">Nim</a></td>
-            <td>XXX</td>
-            <td>YYY</td>
-            <td><a href="www.google.com">Theory link</a></td>
+            <td>Learning best strategy for playing Nim with more than one pile</td>
+            <td>Reinforcment Learning AI</td>
+            <td><a href="https://cs50.harvard.edu/ai/2020/projects/4/nim/">Theory link</a></td>
         </tr>
         <tr>
             <td rowspan=1>Neural Networks</td>
             <td><a href="./5-neural_networks/5a-traffic">Traffic</a></td>
-            <td>XXX</td>
-            <td>YYY</td>
-            <td><a href="www.google.com">Theory link</a></td>
+            <td>Neural networks for road signs classification (useful for self-driving cars) using GTSRB</td>
+            <td>Computer Vision with Neural Networks (Tensorflow)</td>
+            <td><a href="https://cs50.harvard.edu/ai/2020/projects/5/traffic/">Theory link</a></td>
         </tr>
         <tr>
             <td rowspan=2>Language</td>
             <td><a href="./6-language/6a-parser">Parser</a></td>
-            <td>XXX</td>
-            <td>YYY</td>
-            <td><a href="www.google.com">Theory link</a></td>
+            <td>Determining the structure of a sentence by parsing for information/meaning extraction</td>
+            <td>Context-free grammar formalism</td>
+            <td><a href="https://cs50.harvard.edu/ai/2020/projects/6/parser/">Theory link</a></td>
         </tr>
         <tr>
             <td><a href="./6-language/6b-questions">Questions</a></td>
-            <td>XXX</td>
-            <td>YYY</td>
-            <td><a href="www.google.com">Theory link</a></td>
+            <td>Perform Question Answering (QA) with document retrieval and passage retrieval tasks. Document retrieval will first identify which document(s) are most relevant to the query. Once the top documents are found, the top document(s) will be subdivided into passages so that the most relevant passage to the question can be determined.</td>
+            <td>Most relevant documents/passages are determined by tf-idf to rank documents and query term density measure metric for scoring passages</td>
+            <td><a href="https://cs50.harvard.edu/ai/2020/projects/6/questions/">Theory link</a></td>
         </tr>
     </tbody>
 
