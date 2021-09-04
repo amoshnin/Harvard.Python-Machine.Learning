@@ -105,7 +105,7 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
         <tr>
             <td><a href="./6-language/6b-questions">Questions</a></td>
             <td>Perform Question Answering (QA) with document retrieval and passage retrieval tasks</td>
-            <td>Most relevant documents/passages are determined by tf-idf to rank documents and query term density measure metric for scoring passages</td>
+            <td>Document ranking by TF-IDF and passges scoring by query term density measure metric</td>
             <td><a href="https://cs50.harvard.edu/ai/2020/projects/6/questions/">Theory</a></td>
         </tr>
     </tbody>
