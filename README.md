@@ -33,13 +33,14 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
             <td><a href="./1-knowledge/1a-knights">Knights</a></td>
             <td>A program to solve logic puzzles.</td>
             <td>Propositional Logic</td>
-            <td><a href="https://www.youtube.com/watch?v=h_FmpQOj81M">🔗 Video</a></td>
+            <td><a href="https://www.youtube.com/watch?v=h_FmpQOj81M">Video link</a>
+            <a href="https://www.youtube.com/watch?v=h_FmpQOj81M">Website link</a></td>
         </tr>
         <tr>
             <td><a href="./1-knowledge/1b-minesweeper">Minesweeper</a></td>
             <td>Play minesweeper or let the AI play for you.</td>
             <td>Propositional Logic</td>
-            <td><a href="https://www.youtube.com/watch?v=Uz8VEFvfnOU">🔗 Video</a></td>
+            <td><a href="https://www.youtube.com/watch?v=Uz8VEFvfnOU">Video link</a></td>
         </tr>
         <tr>
             <td rowspan=2>Uncertainty</td>
