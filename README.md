@@ -56,7 +56,7 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
         <tr>
             <td rowspan=2>Uncertainty</td>
             <td><a href="./2-uncertainty/2a-pagerank">Pagerank</a></td>
-            <td>PageRank works by counting the number and quality ofs to a page to determine a rough estimate of how important the website is</td>
+            <td>Determine a rough estimate of website importance (ranking)</td>
             <td>PageRank algorithm created by Google's CoFounders</td>
             <td>
                 <a href="https://cs50.harvard.edu/ai/2020/projects/2/pagerank/">Theory</a>
@@ -64,7 +64,7 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
         </tr>
         <tr>
             <td><a href="./2-uncertainty/2b-heredity">Heredity</a></td>
-            <td>Bayesian Network of genes is used by AI to infer the probability distribution for each person’s genes, as well as the probability distribution for whether any person will exhibit the trait in question</td>
+            <td>Bayesian Network of genes for inferring probability distribution for each person’s genes & probability distribution for whether person will exhibit the trait in question</td>
             <td>Probability theory: Probability distribution and Joint Probability</td>
             <td><a href="https://cs50.harvard.edu/ai/2020/projects/2/heredity/">Theory</a></td>
         </tr>
@@ -104,7 +104,7 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
         </tr>
         <tr>
             <td><a href="./6-language/6b-questions">Questions</a></td>
-            <td>Perform Question Answering (QA) with document retrieval and passage retrieval tasks. Document retrieval will first identify which document(s) are most relevant to the query. Once the top documents are found, the top document(s) will be subdivided into passages so that the most relevant passage to the question can be determined.</td>
+            <td>Perform Question Answering (QA) with document retrieval and passage retrieval tasks</td>
             <td>Most relevant documents/passages are determined by tf-idf to rank documents and query term density measure metric for scoring passages</td>
             <td><a href="https://cs50.harvard.edu/ai/2020/projects/6/questions/">Theory</a></td>
         </tr>
