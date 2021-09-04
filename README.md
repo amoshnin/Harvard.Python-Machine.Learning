@@ -11,7 +11,7 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
             <th>Project</th>
             <th>Description</th>
             <th>AI concept</th>
-            <th>Demo</th>
+            <th>  Demo  </th>
         </tr>
     </thead>
     <tbody>
