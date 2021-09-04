@@ -20,32 +20,32 @@ My assignments for CS50's Introduction to Artificial Intelligence with Python.
             <td><a href="./0-search/0a-degrees">Degrees</a></td>
             <td>Discover it how many "degress of separation" apart two actors are.</td>
             <td>Breadth First Search</td>
-            <td><a href="www.google.com">🔗</a></td>
+            <td><a href="https://www.youtube.com/watch?v=bwd0eSYMlmM&t=28s">🔗</a></td>
         </tr>
         <tr>
             <td><a href="./0-search/0b-tictactoe">Tic tac toe</a></td>
             <td>Play tic-tac-toe against an AI that plays optimally.</td>
             <td>Minimax Algorithm</td>
-            <td><a href="www.google.com">🔗</a></td>
+            <td><a href="https://www.youtube.com/watch?v=ukjCBsOTEFI">🔗</a></td>
         </tr>
         <tr>
             <td rowspan=2>Knowledge</td>
             <td><a href="./1-knowledge/1a-knights">Knights</a></td>
             <td>A program to solve logic puzzles.</td>
             <td>Propositional Logic</td>
-            <td><a href="www.google.com">🔗</a></td>
+            <td><a href="https://www.youtube.com/watch?v=h_FmpQOj81M">🔗 Video</a></td>
         </tr>
         <tr>
             <td><a href="./1-knowledge/1b-minesweeper">Minesweeper</a></td>
             <td>Play minesweeper or let the AI play for you.</td>
             <td>Propositional Logic</td>
-            <td><a href="www.google.com">🔗</a></td>
+            <td><a href="https://www.youtube.com/watch?v=Uz8VEFvfnOU">🔗 Video</a></td>
         </tr>
         <tr>
             <td rowspan=2>Uncertainty</td>
             <td><a href="./2-uncertainty/2a-pagerank">Pagerank</a></td>
-            <td>XXX</td>
-            <td>YYY</td>
+            <td></td>
+            <td>PageRank algorithm created by Google's CoFounders</td>
             <td><a href="www.google.com">🔗</a></td>
         </tr>
         <tr>
