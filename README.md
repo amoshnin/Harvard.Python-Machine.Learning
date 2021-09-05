@@ -1,4 +1,4 @@
-# CS50 Introduction to AI with Python projects
+# Harvard's CS50 Course - Introduction to AI with Python - Projects
 
 My assignments for CS50's Introduction to Artificial Intelligence with Python.
 
