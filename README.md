@@ -1,4 +1,4 @@
-# CS50 Introduction to Artificial Intelligence with Python projects
+# CS50 Introduction to AI with Python projects
 
 My assignments for CS50's Introduction to Artificial Intelligence with Python.
 
